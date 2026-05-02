@@ -128,26 +128,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ UI
-
-(Add your UI screenshot here)
-
-### 🌐 Network Request
-
-(Add screenshot of POST /logs request)
-
-### 📦 Request Payload
-
-(Add JSON request screenshot)
-
-### ✅ API Response
-
-(Add response screenshot)
-
----
-
 ## 🧠 Working Flow
 
 1. User interacts with UI (clicks button)
